@@ -74,3 +74,5 @@ When navigating darknet platforms, remember to prioritize security. Utilize veri
 
 <a href="http://pzdv7uupqjj73qiq4ah6ivaczhb2wgj5mqtntetupzzvolvvuaecspyd.onion"><img src="/samples/statusbar.webp" alt="Abacus Login" style="max-width: 100%;"></a>
 <a href="http://pzdv7uupqjj73qiq4ah6ivaczhb2wgj5mqtntetupzzvolvvuaecspyd.onion"><img src="/samples/wide.webp" alt="Abacus Register" style="max-width: 100%;"></a>
+
+Update:  04 July 2025 link is back online and clickable
